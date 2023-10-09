@@ -1,7 +1,7 @@
 ## Technologies
 
 backend:
-- [Vercel](vercel.com)(Hosting)
+- [Vercel] (vercel.com) (Hosting)
 
 frontend:
 - 
